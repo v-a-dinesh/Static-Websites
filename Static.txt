@@ -1,0 +1,5 @@
+Build your Own Static Website
+
+Tourism (basic) : vadstourism.ccbp.tech
+Favorite Places : vadsplaces.ccbp.tech
+Diwali : vadsdiwali.ccbp.tech
